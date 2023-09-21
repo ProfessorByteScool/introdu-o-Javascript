@@ -1,2 +1,3 @@
 # introdu-o-Javascript
-Introdução Javascript
+Introdução Javascri
+Equipe: Professora Luciene e  Aline 
